@@ -1,0 +1,19 @@
+{
+  "name": "flx-stripe-api",
+  "version": "1.0.0",
+  "description": "backend to flx clothing ltd",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuellyworld/Flx-Stripe-API.git"
+  },
+  "author": "samuel aspirin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuellyworld/Flx-Stripe-API/issues"
+  },
+  "homepage": "https://github.com/Samuellyworld/Flx-Stripe-API#readme"
+}
