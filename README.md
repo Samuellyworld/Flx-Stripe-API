@@ -1,3 +1,3 @@
 # Flx-Stripe-API
 
-Backend API to Flx clothing.
+Backend API to Flx clothing
